@@ -1,0 +1,25 @@
+{
+  "name": "chao",
+  "version": "1.0.0",
+  "description": "leader js引导插件",
+  "main": "main.js",
+  "dependencies": {
+    "amdclean": "^2.7.0"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-requirejs": "^1.0.0",
+    "grunt-contrib-uglify": "^2.0.0",
+    "requirejs": "^2.3.2",
+    "uglify": "^0.1.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.coding.net/songchao/js-leader.git"
+  },
+  "author": "song chao",
+  "license": "ISC"
+}
